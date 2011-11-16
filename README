@@ -1,0 +1,17 @@
+Node.js Skeleton for Windows Applications
+^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^ ^-^
+This repository contains the latest Node.js Windows binary (v0.6.1) and some of
+the most common modules that are needed to accomplish anything with node.
+
+TODO:
+Script to update all modules.
+Windows API native addon dll/project.
+More Modules!
+
+Modules included in this repository:
+connect
+mime
+qs
+mkdirp
+commander
+express
